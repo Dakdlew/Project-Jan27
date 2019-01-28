@@ -39,6 +39,10 @@ footer, header, hgroup, menu, section {
 }
 body {
 	line-height: 1;
+	
+img {
+	line-heght:120%
+	}
 }
 ol, ul {
 	list-style: none;
